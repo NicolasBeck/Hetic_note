@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "antd": "^3.0.2",
+    "babel-runtime": "^6.26.0",
+    "indexof": "0.0.1",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  }
+}
