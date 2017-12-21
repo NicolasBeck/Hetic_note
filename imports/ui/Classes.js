@@ -64,9 +64,6 @@ const EditableCell = ({ editable, value, column, onChange }) => (
 )
 
 export default class Classes extends React.Component {
-  state = {
-    current: 'classes',
-  }
   constructor(props) {
     super(props)
     this.columns = [{
